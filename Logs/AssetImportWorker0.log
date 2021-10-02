@@ -144,3 +144,4 @@ Received Import Request.
 Start importing Assets/PiXElos_Mountain_Landscape_by_Giulia_Filippini_and_David_Refoua.png using Guid(ae799e376c092794a904a6bde3cd81b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17d16f61e5ecd631b52416088d08fa5e') in 0.021637 seconds 
   Import took 0.025656 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
